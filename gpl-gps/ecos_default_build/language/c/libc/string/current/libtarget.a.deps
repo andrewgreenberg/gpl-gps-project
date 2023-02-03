@@ -1,0 +1,456 @@
+src/memchr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/memchr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/memcmp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/memcmp.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/memmove.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/memmove.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strcat.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcat.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strchr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strchr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strcmp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcmp.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strcoll.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcoll.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strcpy.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcpy.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strcspn.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcspn.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strlen.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strlen.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strncat.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strncat.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strncmp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strncmp.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strncpy.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strncpy.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strpbrk.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strpbrk.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strrchr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strrchr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strspn.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strspn.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strstr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strstr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strsuppt.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strsuppt.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/strtok.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strtok.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/kernel.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/hal.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/hal_arm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/hal_arm_gps4020.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/thread.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/ktypes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/sched.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/smp.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/hal_intr.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/hal_platform_ints.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/instrmnt.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/mlqueue.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/clist.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/clock.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/except.hxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/hal_arch.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/thread.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/clock.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/diag.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stdarg.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stdarg.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/kernel/mutex.hxx
+src/strxfrm.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strxfrm.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx
+src/bsdstring.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/bsdstring.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/ctype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/i18n/ctype.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_i18n.h
+src/strdup.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strdup.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/strerror.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/bsdstring.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stdlib.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/stdlib/atox.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libc_stdlib.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/stdlib/abs.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/stdlib/div.inl \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/libc/string/stringsupp.hxx

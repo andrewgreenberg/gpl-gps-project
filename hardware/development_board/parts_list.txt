@@ -1,0 +1,215 @@
+------------------------------------------------------------------------
+MG5001 GPL-GPS Development Board Parts.
+------------------------------------------------------------------------
+
+Sorry for the format, we'll clean it up in a more sane format one day.
+
+#Battery stuff
+--------------
+Li coin cell with solder tabs (or bare if used w/holder) (CR2325 is also reasonable)
+B100 BATTERY_COIN_20MM_CR2032
+Panasonic BR2032-1HE (w/20mm solder tabs)
+0 P196-ND
+
+Rechargeable coin cell (check this)
+Vanadium Pentaxide Li, 20x2mm (CR2025/2032 compatible) 4.75$
+B100
+0 P081-ND
+
+Battery charge resistor, don't need now
+R104
+0
+
+MEMORY_PROTECTION_DEVICES_BH32T_20MM_COIN_CELL_HOLDER 0.06$
+0 BH32T-C-ND
+
+
+#Pinheaders
+----------------------------
+1x2: x6 = 12pins
+  J104, J105, J106, J107, J108, J109
+
+1x3: x1 = 3 pins
+  J112
+
+1x4: x2 = 8 pins
+  J102b, J103b
+
+2x2: x1 = 2 long
+  J110
+
+2x3: x1 = 3 long
+  J125
+
+2x5: x4 = 20long
+  J120, J121, J123, J124
+
+2x7: x1 = 7 long
+
+
+Max 1x pinhead count: 23
+Max 2x length:        27
+
+
+#Other connectors
+-----------------
+Coaxial Pwr conn.
+Switchcraft 2.1mm coaxial power, RAPC722 1/4" 1.16$
+J100(A)
+1 SC1153-ND
+
+1x3 Pwr connector could be euroblock 2.54mmx3
+J100(B)
+
+DB9 Serial connectors
+J102(A) J103(A)
+F09HP (Tyco 747844-5 2.31$ea)
+0 A23304-ND
+
+Hirose Connector -- connector for MG5001
+DF9-51S-1V 3.12$
+J101
+0 H2163-ND
+
+Low-profile rear-entry 2mm 2x8 SMT receptacle for mg5003
+J200(A)
+Delphi (Specialty Electronics) 233-0633-01 1.5$ea
+1 SPE1012-ND
+
+Normal profile 2mm 2x8 receptacle
+J200(A)
+Hirose A3C-16DA-2DSA 2.34$ea
+0 H1855-ND
+
+
+#Switches
+-----------------
+Reset button
+6X3.5MM 240g(F) momentary switch 0.77$ (maybe should use 160g(F)?)
+S100(A)
+0 P8060S-ND
+
+Slide switch
+Reset, ROM, JTAG; SPDT 30V .2A EG1218, 0.71$
+S100(B), S101, S102
+3 EG1903-ND
+
+
+#LEDs (possibly should use white/diffuse?)
+-----------------
+Data indicator LED (green)
+0603 35mCd@20mA AlInGaP super thin green Liteon LTST-C191KGKT 1.26$@10
+LED 0,1,2,3,4,5,6,7
+8 160-1446-1-ND
+
+Power indicator LED (yellow)
+0603 60mCd@20mA AlInGaP super thin yellow Liteon LTST-C191KSKT 1.26$@10
+LED100
+1 160-1448-1-ND
+
+
+#Integrated circuits
+--------------------
+3.3V reg (have 88 of these in stock)
+LM1085-3.3 3A hot-tab TO263
+U100
+0 ????
+
+5V reg 1A hot-tab TO263
+U101
+-- RC1117M5-ND Fairchild, 0.80$ digikey no longer stocks)
+The NS replacement is 2.42$, yes x4 more expensive!
+0??? LM1086IS-5.0-ND
+
+RS232 converter
+ST ST3232EBD 2.37$ea
+U102
+1 497-2071-5-ND
+
+RS232 converter
+MAX3232D (TI or MAX)
+-- the TI part (296-13094-1-ND) was only 1.5$
+The MAX replacement is 4.19$, yep x2.8 more expensive.
+U102
+0 MAX3232CSE-ND
+
+SN74LVC2244A 3.3V 12mA 5V compat. so20W w/26 Ohm output resistors 0.6$ea
+U103
+1 296-8490-5-ND
+
+SN74ALVCH244DW 3.3V
+74LVC244ADWR 3.3V 24mA 5V compat. so20W
+U103
+0 296-1229-1-ND Digikey is now out of these!
+
+Serial DataFlash
+16Mbit TSOP28 2.7V industrial 6.39$
+U104 U105
+0 AT45DB161B-TI-ND
+
+
+#Diodes
+--------------------
+Reverse protection diode. Nice if Schottky.
+D100 0.68$
+1 497-2463-1-ND
+
+Generic SMA diode
+ST STTH102 1A 200V Si 20ns 0.275$@10
+D101, D102, D103, D104
+4 497-2500-1-ND
+
+#Capacitors
+--------------------
+0.1uF ceramic 50V X7R 1206 0.01$
+C100 C106 C107 C108 C109 C110 C111 C112 C113
+0 12062R104K9B20D
+
+Input bypass
+10uF tant (elec?) (35V unless sure) Could be 47uF Al
+Kmet T491D106K035AS 0.65$ (0.565$@10)
+C101
+1 399-1654-1-ND
+
+Output caps
+22uF tant 16V or 50uF Al (150uF for adjustable regulators)
+T491C226M016AS 0.43$
+C102 C103
+2 399-1597-1-ND
+
+Anti-ripple caps (only for adj. regulators)
+10uF tant. 16V
+C104, C105
+0 ????
+
+
+#Resistors
+--------------------
+Inrush limiting resistor, don't need now
+R100
+
+voltage adjust resistors, don't need now
+R102 R103
+
+10k 1206
+R105 R106
+0
+
+R104 R1206 rcl
+
+Serial Flash CS pullups, LED disable wire
+100k (good enough)
+R107 R108 R109
+0 ????
+
+Current limiter for power LED
+270 390 130 5mA 3mA 10mA
+R101
+1206
+1 ????
+
+Current limiters for data LEDs
+270 390 130 5mA 3mA 10mA
+R110, R111, R112, R113, R114, R115, R116, R117
+Yageo 5% 1/8W 0805 0.076$ea@10
+8 311-390ACT-ND 

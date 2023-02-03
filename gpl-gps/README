@@ -1,0 +1,95 @@
+README the readme file for gpl-gps, a port of OpenSource GPS for the GP4020
+ Copyright (C) 2005  Andrew Greenberg
+ Distributed under the GNU GENERAL PUBLIC LICENSE (GPL) Version 2 (June 1991).
+ See the "COPYING" file distributed with this software for more information.
+
+GPL-GPS
+Open source software for Commercial, Off-the-Self Global Positioning System 
+(GPS) receivers. <http://gps.psas.pdx.edu>
+
+PURPOSE
+To make high quality GPS software available to anyone for experimentation,
+education, research, and new applications. Our software is intended to run on
+inexpensive off-the-shelf commercial hardware while attaining the full accuracy
+possible with the present civilian GPS configuration.
+
+Possible applications include but are not limited to
+
+  Differential GPS featuring centimeter accuracy
+  Improved accuracy WAAS GPS
+  GPS aiding and complementary inertial navigation integration
+  Carrier phase for vehicle attitude determination
+  Multipath rejecting and jamm-resistant algorithms
+  Software GPS
+  GPS integration, for example as a subroutine in a software radio
+  Development of new GPS systems such as L5 capable receivers
+  A tool for teaching about the GPS
+
+STATUS (alpha)
+June 2005, gpl-gps runs from SRAM on re-flashed MG5001 OEM boards and
+produces position fixes about 2 times less accurate than state-of-the-art
+commercial software. This is thought to be due to 3 shortcomings with the
+current implementation of gpl-gps. The most obvious missing piece is carrier
+phase aiding, which provides an independent and ideally very accurate estimate
+of receiver velocity. Also missing, a Kalman filter, and some re-working of the
+fine tracking algorithm and it's interaction with local time estimates.
+
+If these 3 shortcomings were addressed, we believe that our accuracy would be comparable to current commercial implementations.
+
+(Some of the following is redundant with the TODO file.)
+
+In addition to position computation issues there are several other features
+that need work including: almanac/Warm start code, re-acquire tracking,
+the search and acquisition algorithm, cold-start sky search code, and UI.
+
+Features aside, the code base could benefit from some work. Modularizing,
+possibly even dynamic loading, porting to other chipsets, software correlators,
+a command interpreter. Support for fixed point, efficiency improvements, all
+the usual suspects.
+
+INSTALLATION
+Could somebody write this up? Maybe a separate file called "INSTALL"
+
+HISTORY
+Around 1995 Clifford Kelly began working on open source GPS software. He called
+the project OpenSource GPS (OSGPS) and as of 2005 it has reached version 1.17.
+The project website is <http://home.earhlink.net/~cwkelley>, there is also a
+project page on sourceforge <http://sourceforge.net/projects/osgps>.
+
+By using a hacked commercial receiver based on the GP2021 chip, bypassing the
+receiver's microprocessor and connecting the hardware correlator directly to
+the PC-ISA bus, OSGPS is able to run all its software on the host PC.
+
+Meanwhile, at Portland State University, a small group of students started a
+rocket club, the Portland State Aerospace Society (PSAS) whose admittedly
+ambitious purpose was to (eventually) send nano-satellites into orbit. Through
+the late 1990's this group <http://psas.pdx.edu> was semi-seriously discussing
+the idea of open source software for inertial navigation with GPS aiding based
+roughly on the complementary filter approach.
+
+Finally in the year 2000 Andrew Greenberg, a PSAS member, started what became
+the gpl-gps project. As circumstance unfolded, not much actual software got
+written at first. The project moved slowly for several years until April 2003
+when the gps.psas.pdx website was finally set up. This was followed by a flurry
+of activity culminating in a meeting at the 2003 Institute of Navigation
+conference. After the conference many distractions sapped the energy away from
+GPS work and the project languished without progress.
+
+Then in 2004 Takuji Ebinuma ported OSGPS to the GP4020
+<http://www.geocities.com/tebinuma/osgps>. Unlike Cliff Kelly's effort,
+Takuji's port ran on unmodified OEM hardware using the GP4020's built in
+bootloader. Though both approaches have advantages, the off-the-shelf hardware
+approach of Takuji's effort was more in keeping with the goals of gpl-gps, and
+more to the point, Takuji was making progress. This, combined with the 
+realization that his graduate credit hours would soon begin to expire,
+Andrew leaped into action and in April 2005 gpl-gps was revivified.
+
+By early May 2005 gpl-gps had been successfully ported to the SigTec MG5001 OEM
+board using Linux as the development platform. By the end of May, his thesis
+finally complete, Andrew was awarded his long sought masters degree.
+
+Currently, gpl-gps is being reworked. We hope to rapidly improve its
+performance so that it is comparable to similar commercial products. This will
+involve adding several features, improving certain existing components, and
+unifying and streamlining the code base.
+

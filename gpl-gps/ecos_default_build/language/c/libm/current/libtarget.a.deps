@@ -1,0 +1,667 @@
+src/misc/matherr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/misc/matherr.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/misc/standard.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/misc/standard.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/errno.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/errno.h
+src/misc/compatmode.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/misc/compatmode.cxx \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/misc/infconst.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/misc/infconst.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_acos.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_acos.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_asin.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_asin.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_atan2.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_atan2.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_cosh.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_cosh.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_exp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_exp.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_fmod.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_fmod.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_log.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_log.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_log10.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_log10.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_pow.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_pow.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_rem_pio2.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_rem_pio2.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_scalb.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_scalb.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_sinh.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_sinh.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-core/e_sqrt.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-core/e_sqrt.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_acos.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_acos.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_asin.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_asin.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_atan2.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_atan2.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_cosh.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_cosh.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_exp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_exp.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_fmod.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_fmod.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_log.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_log.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_log10.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_log10.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_pow.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_pow.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_scalb.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_scalb.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/errno.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/codes.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/error.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/error/errno.h
+src/double/ieee754-api/w_sinh.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_sinh.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/ieee754-api/w_sqrt.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/ieee754-api/w_sqrt.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/internal/k_cos.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/internal/k_cos.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/internal/k_rem_pio2.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/internal/k_rem_pio2.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/internal/k_sin.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/internal/k_sin.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/internal/k_tan.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/internal/k_tan.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_atan.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_atan.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_ceil.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_ceil.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_copysign.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_copysign.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_cos.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_cos.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_expm1.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_expm1.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_fabs.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_fabs.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_finite.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_finite.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_floor.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_floor.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_frexp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_frexp.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_isnan.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_isnan.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_ldexp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_ldexp.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_rint.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_rint.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_scalbn.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_scalbn.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_sin.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_sin.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_tan.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_tan.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_modf.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_modf.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h
+src/double/portable-api/s_tanh.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libm/current/src/double/portable-api/s_tanh.c \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/libm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/pkgconf/system.h \
+  /opt/ecos-cvs/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/math.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/float.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/float.h \
+  /ecos-c/cygwin/home/andrew/gps/gpl-gps/ecos_default_install/include/sys/ieeefp.h

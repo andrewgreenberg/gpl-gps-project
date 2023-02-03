@@ -1,0 +1,7 @@
+/ecos-c/cygwin/home/andrew/gps/redboot/redboot_rom/redboot_rom_install/lib/target.ld : \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_rom/redboot_rom_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_rom/redboot_rom_install/include/pkgconf/hal_arm.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_rom/redboot_rom_install/include/pkgconf/mlt_arm_gps4020_rom.ldi \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_rom/redboot_rom_install/include/cyg/infra/cyg_type.inc \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_rom/redboot_rom_install/include/cyg/hal/basetype.h
+

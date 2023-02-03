@@ -1,0 +1,9 @@
+ecos_default_*
+temp*
+Archive
+here.h
+*.i
+*.s
+*.d
+*.map
+gpl-gps

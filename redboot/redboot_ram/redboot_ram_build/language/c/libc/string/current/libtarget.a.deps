@@ -1,0 +1,311 @@
+src/memchr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/memchr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/memcmp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/memcmp.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/memmove.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/memmove.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strcat.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcat.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strchr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strchr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strcmp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcmp.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strcoll.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcoll.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strcpy.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcpy.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strcspn.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strcspn.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strlen.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strlen.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strncat.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strncat.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strncmp.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strncmp.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strncpy.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strncpy.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strpbrk.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strpbrk.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strrchr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strrchr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strspn.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strspn.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strstr.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strstr.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strsuppt.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strsuppt.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strtok.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strtok.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx
+src/strxfrm.o.d:  \
+ /opt/ecos-cvs/packages/language/c/libc/string/current/src/strxfrm.cxx \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/libc_string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_type.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/stddef.h \
+  /opt/tools/ARM34~1.3/bin/../lib/gcc/arm-elf/3.4.3/include/stddef.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/hal/basetype.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_trac.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/infra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/system.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/infra/cyg_ass.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/pkgconf/isoinfra.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.h \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/string.inl \
+  /ecos-c/cygwin/home/andrew/gps/redboot/redboot_ram/redboot_ram_install/include/cyg/libc/string/stringsupp.hxx

@@ -1,0 +1,45 @@
+TODO file for GPL-GPS
+
+1. Check the stack usage on the idle thread - can we reduce it to the minimum
+1200 bytes? The 1200 bytes is defined as the minimal stack size for us -- sorry
+I forgot where. Also maybe we should change that since we clearly have threads
+that take less than 512 bytes (see the 'd' option in the display).
+(Isn't stack usage defined in gpl-gps.c ?)
+
+2. Check the tm_basic code to find out how to measure the interrupt stack usage.
+
+3. In the config tool, under Math Library -> Compatibility Mode, maybe we can
+use IEEE - only? But need to be careful if we ever need POSIX support.
+
+4. Move floating point variables in position.c to statics, so that we can
+reduce the stack down to a normal thread size. Seems like it's be more
+efficient, in terms of not having to have a huge stack (and being more
+deterministic about stack stuff). (Check efficiency too.)
+
+5. Take the long term average of the clock correction, and add it to the clock
+every TIC if we're not positioning. (If we're not positioning?)
+
+6. In position.c, change to a structure indexed ONLY by channel. Probably means
+having another array to index the valid channels? Or?
+
+7. Implement a "wider" aquisition algorithm, possibly DFT based.
+
+8. Modularize the algorithms to allow subsitution of various forms.
+
+9. Change the navigation bit extraction in tracking.c to be noise-tolerant. It is desirable to be able to choose either the present extraction or the proposed one, see Modularization above.
+
+10. Implement (re-implement?) carrier phase aiding
+
+11. Implement a Kalman filter
+
+12. Dynamic loading of code?
+
+13. A command interpreter?
+
+14. Provide an option for fixed point computations
+
+15. High-bandwitdh communications with the host for debugging or off-loading
+    some of the computation.
+
+16. Achieve some host independence, so that algorithms can run on a PC for
+    example.

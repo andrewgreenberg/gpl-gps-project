@@ -1,0 +1,46 @@
+Authors file for gpl-gps
+ Copyright (C) 2005  Andrew Greenberg
+ Distributed under the GNU GENERAL PUBLIC LICENSE (GPL) Version 2 (June 1991).
+ See the "COPYING" file distributed with this software for more information.
+
+gpl-gps is derived from Clifford Kelley's <cwkelley@earthlink.net> GPL'd
+"OpenSource GPS" (OSGPS) version 1.17 written for the Mitel GP2021 from which
+our target, the GP4020 directly descends.
+
+Contributors to OSGPS v.1.17 include
+
+  Joel Barnes        University of New South Wales, Australia
+  Jingrong Cheng     University of California Riverside
+  Georg Beyerle      GFZ, Germany
+  Alberto Perez 
+  Phil Bender
+  Doug Baker
+  Elmer Thomas       University of California Riverside
+  Andrew Greenberg   Portland State University
+  Takuji Ebinuma
+  Yu Lu              University of California Riverside
+  Serguei Miridonov
+  Goetz Kappen
+
+Sometime in the 1990's Andrew Greenberg proposed that the Portland State
+Aerospace society create some open source GPS software. Eventually we learned
+of the existing OSGPS project and decided to port that to Linux. (originally
+OSGPS was written for MSDOS in Borland C++.) Little progress was made however
+until Takuji Ebinuma undertook the effort and successfully got a subset of
+OSGPS to run on the GP4020 under Linux using the JaysOS real-time operating
+system.
+
+Tak's work and Andrew's expiring university credits were finally enough to get
+gpl-gps going again, and in April 2005 gpl-gps finally appeared in CVS.
+
+The gpl-gps effort gratefully acknowledges the its contributors, who include:
+
+  Takuji Ebinuma        <tebinuma@yahoo.com>      --Author of OSGPS GP4020 port
+  Andrew Greenberg      <andrew@psas.pdx.edu>
+  Clifford Kelley       <cwkelley@earthlink.net>  --Author of OSGPS
+  Jamey Sharp           Portland State University
+  
+If any contributors who wish to be included have been left out, please accept
+our apologies. Just let us know and we will be happy to add or correct your
+entry.
+
